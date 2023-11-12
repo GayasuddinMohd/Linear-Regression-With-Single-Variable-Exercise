@@ -35,3 +35,7 @@ Linear regression with one variable is used when you want to predict a single ou
 9. Social Sciences: Linear regression is commonly used in social sciences to study relationships between variables like income and education levels, crime rates, and social indicators.
 
 10. Remember that while simple linear regression is a powerful tool, it assumes a linear relationship between the variables, and its use should be accompanied by proper statistical analysis, model validation, and consideration of potential confounding variables.
+    
+# Dataset  
+* Download the dataset from [Google Drive](https://drive.google.com/file/d/1Me0XfqIYRJi1CP62hH-V97BdnWkaET7J/view?usp=sharing).
+* Download the dataset from [Google Drive](https://drive.google.com/file/d/1TfEiSNdtkvv6qlgjPVjLOU9skfjN2eYU/view?usp=sharing).
